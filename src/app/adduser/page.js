@@ -38,6 +38,8 @@ export default function UserRegistration() {
   return (
     <div>
       <h1>User Registration</h1>
+      <h2>Hello everyone</h2>
+      <h3>github on file code push practice</h3>
       <form>
         <label>
           Name:
